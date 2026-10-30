@@ -32,7 +32,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Shininess: 16
+    - _Shininess: 34.9
     - _UseAmbient: 1
     - _UseLambert: 1
     - _UseSpecular: 1
